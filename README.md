@@ -13,5 +13,8 @@
 
 HW1(參考程式語言作業一的檔案)
 [HW2](https://nbviewer.org/github/MoleBioL/programmimg-language/blob/main/61145010S%20HW2%20%E8%97%8D%E5%AE%B6%E8%93%81.ipynb)
+[HW3 code](https://github.com/MoleBioL/programmimg-language/blob/main/HW3%E7%88%AC%E8%9F%B2.ipynb)
+[HW3 record](https://youtu.be/k1BuitIh_Mo)
+[HW3 google sheet](https://docs.google.com/spreadsheets/d/1jN-h6eqDpp5Yq6Nm3vTUPaowc01rluNa2gZKsDDnZE4/edit#gid=0)
 
 專題連結區
